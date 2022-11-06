@@ -11,7 +11,7 @@ PowerCLI needs to be installed
     # Find-Module -Name VMware.PowerCLI
     # Install-Module -Name VMware.PowerCLI -Scope AllUsers
      
-List of VMs to be updated with the new PG in VMs.csv
+  2. List of VMs to be updated with the new PG in VMs.csv
 
 ---- To modify before running the script ----
 
