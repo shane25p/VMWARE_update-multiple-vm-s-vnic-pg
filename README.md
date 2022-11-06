@@ -12,3 +12,9 @@ PowerCLI needs to be installed
     # Install-Module -Name VMware.PowerCLI -Scope AllUsers
      
 List of VMs to be updated with the new PG in VMs.csv
+
+---- To modify before running the script ----
+
+1. Change the VMs.csv file path on the script before executing the script
+2. $oldpg = Existing PortGroup Name
+3. $newpg = The PortGroup to change
